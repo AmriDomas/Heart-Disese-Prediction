@@ -37,12 +37,12 @@ The application accepts the following inputs:
 ---
 
 ## Dataset
+
 The models were trained on a heart disease dataset containing various clinical parameters. You can download a similar dataset from [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 
 ---
 
 ## Acknowledgments
-- UCI Machine Learning Repository for the heart disease dataset.
 - Developers of XGBoost, LightGBM, and Random Forest for their amazing libraries.
 
 
